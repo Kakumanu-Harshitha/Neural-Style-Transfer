@@ -2,13 +2,19 @@
 A Style Transfer Model is designed to apply the artistic style of one image onto another, blending the content of a target image with the visual characteristics of a reference style image. The model typically uses Convolutional Neural Networks (CNNs) to separate and recombine the content and style features from the two images.
 
 # Features
-Import libraries
-Check for availabilty of device
-Load Images
-Caluculate Loss
-Importing the Model
-Optimization
-Run Algorithm
+1.Import libraries
+
+2.Check for availabilty of device
+
+3.Load Images
+
+4.Caluculate Loss
+
+5.Importing the Model
+
+6.Optimization
+
+7.Run Algorithm
 
 # Applications
 Neural Style Transfer is widely used to generate artistic images by combining the content of a photo with the style of famous artwork. This application allows users, photographers, and artists to create visually stunning results without manual editing or painting. By applying styles from famous paintings like Van Gogh’s Starry Night or Picasso’s Cubism, NST makes it possible to transform ordinary images into artistic masterpieces.
