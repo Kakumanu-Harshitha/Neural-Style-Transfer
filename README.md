@@ -21,7 +21,7 @@ This model acheived Style Loss : 2.619385 and Content Loss: 26.419588.
 # Style Image
 [Style-Image]()
 # Content Image
-[Content-Image]()
+![Content-Image](https://github.com/Kakumanu-Harshitha/Neural-Style-Transfer/blob/main/content%20image.jpg)
 # Output Image
 [Style Transfered Image]()
 # Requirements
