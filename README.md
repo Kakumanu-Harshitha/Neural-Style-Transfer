@@ -19,11 +19,11 @@ I used a compiler GPU provided in google colab while running this project.
 # Results:
 This model acheived Style Loss : 2.619385 and Content Loss: 26.419588.
 # Style Image
-[Style-Image]()
+![Style-Image](https://github.com/Kakumanu-Harshitha/Neural-Style-Transfer/blob/main/style%20image.jpg)
 # Content Image
 ![Content-Image](https://github.com/Kakumanu-Harshitha/Neural-Style-Transfer/blob/main/content%20image.jpg)
 # Output Image
-[Style Transfered Image]()
+![Style Transfered Image](https://github.com/Kakumanu-Harshitha/Neural-Style-Transfer/blob/main/style%20transfered%20image.png)
 # Requirements
 Pandas
 
@@ -39,3 +39,5 @@ Operating System(OS)
 
 # Programmes
 Python
+# Owner
+[Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
